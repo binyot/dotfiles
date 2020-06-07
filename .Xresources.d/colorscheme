@@ -1,0 +1,46 @@
+*background: #FFFCFD
+*foreground: #250E07
+*.cursorColor: #D68482
+
+! Black + DarkGrey
+#define COLOR0 #F3EAE9
+#define COLOR8 #D8B8B3
+! DarkRed + Red
+#define COLOR1 #873E40
+#define COLOR9 #832426
+! DarkGreen + Green
+#define COLOR2 #839A53
+#define COLOR10 #6F873E
+! DarkYellow + Yellow
+#define COLOR3 #D4A520
+#define COLOR11 #C39104
+! DarkBlue + Blue
+#define COLOR4 #A6B6CE
+#define COLOR12 #7B91B3
+! DarkMagenta + Magenta
+#define COLOR5 #D68482
+#define COLOR13 #C97270
+! DarkCyan + Cyan
+#define COLOR6 #89BEB7
+#define COLOR14 #63A098
+! LightGrey + White
+#define COLOR7 #ECC3C2
+#define COLOR15 #F2CC60
+
+*color0: COLOR0
+*color1: COLOR1
+*color2: COLOR2 
+*color3: COLOR3 
+*color4: COLOR4
+*color5: COLOR5
+*color6: COLOR6
+*color7: COLOR7
+*color8: COLOR8
+*color9: COLOR9
+*color10: COLOR10
+*color11: COLOR11
+*color12: COLOR12
+*color13: COLOR13
+*color14: COLOR14
+*color15: COLOR15
+

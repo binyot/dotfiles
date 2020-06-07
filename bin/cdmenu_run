@@ -1,0 +1,7 @@
+dmenu_run \
+    -fn 'Sarasa Term CL-13' \
+    -nb '#FFFCFD' \
+    -nf '#250E07' \
+    -sb '#D68482' \
+    -sf '#FFFCFD'
+
